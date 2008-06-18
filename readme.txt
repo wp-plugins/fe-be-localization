@@ -12,6 +12,8 @@ Different Localization in front- and backend adds the possibility to use differe
 
 Different Localization in front- and backend adds the possibility to use different localization in frontend and backend. This plugin was quickly written by me due to a request in the [official german WordPress support forums](http://forum.wordpress-deutschland.org/).
 
+**Want update feeds, code documentation and more? Visit [extend.schloebe.de](http://extend.schloebe.de)**
+
 == Frequently Asked Questions ==
 
 None.
