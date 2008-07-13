@@ -3,7 +3,7 @@ Contributors: Alphawolf
 Donate link: http://www.schloebe.de/donate/
 Tags: localization, frontend, backend, admin
 Requires at least: 2.0
-Tested up to: 2.5
+Tested up to: 2.6
 Stable tag: trunk
 
 Different Localization in front- and backend adds the possibility to use different localization in frontend and backend.
