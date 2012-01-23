@@ -3,17 +3,20 @@ Contributors: Alphawolf
 Donate link: http://www.schloebe.de/donate/
 Tags: localization, frontend, backend, admin
 Requires at least: 2.0
-Tested up to: 2.5
+Tested up to: 2.6
 Stable tag: trunk
 
 Different Localization in front- and backend adds the possibility to use different localization in frontend and backend.
 
 == Description ==
 
+**Discontinued**
+
 Different Localization in front- and backend adds the possibility to use different localization in frontend and backend. This plugin was quickly written by me due to a request in the [official german WordPress support forums](http://forum.wordpress-deutschland.org/).
 
-**- Developer on Google+: https://plus.google.com/100776016153395792354
-- Developer on Twitter: http://twitter.com/wpseek**
+[Developer on Google+](https://plus.google.com/100776016153395792354 "Developer on Google+") | [Developer on Twitter](http://twitter.com/wpseek "Developer on Twitter")
+
+**Want update feeds, code documentation and more? Visit [extend.schloebe.de](http://extend.schloebe.de)**
 
 == Frequently Asked Questions ==
 
