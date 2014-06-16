@@ -1,4 +1,4 @@
-=== Different Localization in Front- and Backend ===
+﻿=== Different Localization in Front- and Backend ===
 Contributors: Alphawolf
 Donate link: http://www.schloebe.de/donate/
 Tags: localization, frontend, backend, admin
@@ -15,6 +15,8 @@ Different Localization in front- and backend adds the possibility to use differe
 Different Localization in front- and backend adds the possibility to use different localization in frontend and backend. This plugin was quickly written by me due to a request in the [official german WordPress support forums](http://forum.wordpress-deutschland.org/).
 
 [Developer on Google+](https://plus.google.com/118074611982254715031 "Developer on Google+") | [Developer on Twitter](http://twitter.com/wpseek "Developer on Twitter")
+
+[Become A Patron, Support The Developer.](http://www.patreon.com/oliver_schloebe "Become A Patron, Support The Developer.")
 
 **Looking for more WordPress plugins? Visit [www.schloebe.de/portfolio/](http://www.schloebe.de/portfolio/)**
 
